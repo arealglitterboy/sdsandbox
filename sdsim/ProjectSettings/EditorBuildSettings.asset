@@ -47,4 +47,25 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/makerspace.unity
     guid: 8069c9603ac9878408689c89d0e2d8cb
+  - enabled: 1
+    path: Assets/Scenes/generated_track_simple.unity
+    guid: e96ddbe96b72fb444a0f71bcdfc60cdb
+  - enabled: 1
+    path: Assets/Scenes/mini_monaco_simple.unity
+    guid: b93bd8b8b2170cd4fb0a7cf831fb1abd
+  - enabled: 1
+    path: Assets/Scenes/roboracingleague_1_simple.unity
+    guid: aef75415738198d4e9c90c6d14883cb5
+  - enabled: 1
+    path: Assets/Scenes/test_scene.unity
+    guid: cd20c35b3c290204e90d69a2ba5b094d
+  - enabled: 1
+    path: Assets/Scenes/test_scene_simple.unity
+    guid: 0ca88f225c5ac0946a358fc031409482
+  - enabled: 1
+    path: Assets/Scenes/warehouse_simple.unity
+    guid: aa4ec621ff63db041bdf85526ff98e75
+  - enabled: 1
+    path: Assets/Scenes/warren_simple.unity
+    guid: 68cd6a23dab20464084677ca2a4f3798
   m_configObjects: {}

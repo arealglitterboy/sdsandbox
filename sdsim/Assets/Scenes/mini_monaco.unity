@@ -1408,6 +1408,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
         type: 3}
+      propertyPath: iRoadMaterial
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
+        type: 3}
       propertyPath: coneHeightOffset
       value: 0
       objectReference: {fileID: 0}
@@ -1423,6 +1428,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
         type: 3}
+      propertyPath: roadMaterials.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
+        type: 3}
       propertyPath: conePrefabs.Array.data[0]
       value: 
       objectReference: {fileID: 1702004190242720, guid: c8afaba7fce53904d8f9b59644394304,
@@ -1433,6 +1443,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 4833816978664631217, guid: 7b352c1be3b4a64498373a6f9cca2e26,
         type: 3}
+    - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
+        type: 3}
+      propertyPath: roadMaterials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: abfd648ba73e6b94fa4d16de9d5ad2fe, type: 2}
     - target: {fileID: 3155280883320326495, guid: 89b891dc9d0fe46ffba6fbc78477652f,
         type: 3}
       propertyPath: startDistanceOffset
@@ -1772,7 +1787,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: 1
     m_CustomResolution: -1
     m_Strength: 1
@@ -1900,7 +1915,7 @@ PrefabInstance:
     - target: {fileID: 1685762601780632596, guid: 07f0ed3f4d97ab546b616cad407a0b96,
         type: 3}
       propertyPath: numRandCone
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1685762601780632596, guid: 07f0ed3f4d97ab546b616cad407a0b96,
         type: 3}
