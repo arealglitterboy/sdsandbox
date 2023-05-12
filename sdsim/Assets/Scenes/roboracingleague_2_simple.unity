@@ -6638,7 +6638,7 @@ PrefabInstance:
     - target: {fileID: 4226328660224021295, guid: b4bfaf4102a71204692041cf5b06c6bb,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.7998657
+      value: 0.8000488
       objectReference: {fileID: 0}
     - target: {fileID: 4226500186136556145, guid: b4bfaf4102a71204692041cf5b06c6bb,
         type: 3}
@@ -7294,7 +7294,7 @@ PrefabInstance:
     - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
         type: 3}
       propertyPath: iRoadMaterial
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
         type: 3}
@@ -7343,11 +7343,6 @@ PrefabInstance:
       propertyPath: roadOffsets.Array.data[4]
       value: 4.5
       objectReference: {fileID: 0}
-    - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
-        type: 3}
-      propertyPath: roadMaterials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 6d7bfc0bfaa1e4a448aea57dbcadc7f9, type: 2}
     - target: {fileID: 114798992687500020, guid: 89b891dc9d0fe46ffba6fbc78477652f,
         type: 3}
       propertyPath: roadMaterials.Array.data[2]
